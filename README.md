@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 ![This is a CSS logo Design Template .svg formatpfp](https://ipfs.io/ipfs/QmW37aDr7ii2QgYKbP3D6yCYxnt9ifmSfE9Wked9wMePni?filename=thinkgrain.jpg "Image")
 ![This is a CSS Card Template Design .svg](https://ipfs.io/ipfs/QmUKyLPyp1SYT29VMS43kdhMHhQQkPhQt6mowDQd1fUiLc?filename=svg-card-layout.svg "Image")
 
-❗fun fact: this makes me really happy!❣️ these are all my custom designs. ✨🌙✨
+this makes me really happy!❣️
+✨🌙✨

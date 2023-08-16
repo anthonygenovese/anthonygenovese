@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![This is a CSS Card Template Design .png format](https://ipfs.io/ipfs/QmPG78CBCd3hyJPZPVu5bWYxUpbuwvXRoLXYzxgKGkPxkK?filename=png-card-layout.png "Image")
-![This is a CSS logo Design Template .svg formatpfp](https://ipfs.io/ipfs/QmW37aDr7ii2QgYKbP3D6yCYxnt9ifmSfE9Wked9wMePni?filename=thinkgrain.jpg "Image")
-![This is a CSS Card Template Design .svg](https://ipfs.io/ipfs/QmUKyLPyp1SYT29VMS43kdhMHhQQkPhQt6mowDQd1fUiLc?filename=svg-card-layout.svg "Image")
-
 this makes me really happy!❣️
 ✨🌙✨

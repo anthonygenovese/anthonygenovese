@@ -1,5 +1,5 @@
 layout: page
 title: "PAGE-TITLE"
 ##
-## ![This is my css - style card design - v.08](https://ipfs.io/ipfs/QmPG78CBCd3hyJPZPVu5bWYxUpbuwvXRoLXYzxgKGkPxkK?filename=png-card-layout.png)
-''''
+## 
+![Card Layout - 2@0 5x](https://github.com/anthonygenovese/anthonygenovese/assets/119356029/3e0d2588-7901-4a40-8d24-a530936ee8a4)
